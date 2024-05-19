@@ -85,7 +85,7 @@ def main(message):
 				mes.add(cm1,status, cm3, cm4, cm5, stop)
 				bot.edit_message_text(chat_id=message.chat.id, message_id=ko, text='''Wait for processing 
 𝒃𝒚 ➜ @NOTBASRA ''', reply_markup=mes)
-				msg = f'''◆ 𝑪𝑨𝑹𝑫  ➜ {`cc`} 
+				msg = f'''◆ 𝑪𝑨𝑹𝑫  ➜ {cc} 
 ◆ 𝑺𝑻𝑨𝑻𝑼𝑺 ➜ 𝗔𝗽𝗽𝗿𝗼𝘃𝗲𝗱  ✅ 
 ◆ 𝑹𝑬𝑺𝑼𝑳𝑻 ➜ #Approved
 ◆ 𝑮𝑨𝑻𝑬𝑾𝑨𝒀 ➜ 𝙱𝚁𝙰𝙸𝙽𝚃𝚁𝙴𝙴 𝙰𝚄𝚃𝙷 
